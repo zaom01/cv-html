@@ -1,0 +1,17 @@
+<html>
+ <head>
+   <meta charset="utf-8"></meta>
+   <title>Contact</title>
+ </head>
+ <body>
+   <FORM METHOD=POST ENCTYPE="text/plain" ACTION="mailto:zaouali.mohamed@gmail.com">
+    <p>
+    Nom: <INPUT NAME=Nom size=30><br>
+    Prénom: <INPUT NAME=Prenom size=30><br>
+    Message: <TEXTAREA NAME=Message rows=5 cols=30></TEXTAREA><br>
+         <INPUT TYPE=SUBMIT VALUE=Envoyer><br>
+         <INPUT TYPE=RESET VALUE=Effacer>
+     </p>
+   </FORM>
+ </body>
+</html>

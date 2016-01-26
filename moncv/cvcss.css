@@ -1,0 +1,21 @@
+#header {
+  background-color: blue;
+  color:red;
+  text-align:center;
+  padding:5px;
+  }
+  #nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:240px;
+    float:left;
+    padding:5px;
+}
+#section {
+    width:500px;
+    float:left;
+    padding:100px; }
+#section h1{
+  color:blue;
+}

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<head>
+  <link rel="stylesheet" href="cvcss.css" />
+  <meta charset="utf-8"></meta>
+  <title> mon cv </title>
+  </head>
+<body>
+  <div id="header">
+    <h1><img src="mohamed.jpg"  style="float:left;width:250px;height:250px;">Mon CV </h1>
+  </div>
+<div id="nav">
+ Formation<br>
+ Exp&eacuterience<br>
+ <a href="#01">Compétences informatiques </a> <br>
+ <a href="#02"> Langues </a><br>
+ <a href="#03">Loisirs </a><br>
+ <a href="contact"> Contact </a>
+</div>
+<div id="section">
+  <h1>Formation</h1>
+   <p> 2013-2014 baccalauréat en sciences de la vie et de la terre (&eacutelyce farhat hached bizerte)</p>
+   <p> 2014-2015 premiére annee a l'universite de sousse (ISSAT) </p>
+   <p> 2015-2016 commencer  étudier a l'uqo </p>
+  <h1>Expérience</h1>
+  <p> 2015 banque arabe tunisien (stage,1 mois) </p>
+  <h1 id="01"> Compétences informatiques</h1>
+   <ul>
+   <li>Systèmes d'exploitation
+    <ul>
+      <li>Linux (Ubuntu)</li>
+      <li>Windows XP</li>
+   </ul>
+  </li>
+  <li>Bureautique</li>
+    <ul>
+       <li> Microsoft Office </li>
+    </ul>
+  <li> Programmation </li>
+    <ul>
+      <li> PASCAL </li>
+      <li> C </li>
+      <li> JAVA </li>
+      <li> HTML </li>
+      <li> CSS </li>
+    </ul>
+  </ul>
+  <h1 id="02"> Langues </h1>
+    <ul>
+      <li> Arabe (Langue maternelle) </li>
+      <li> Fran&ccedilais (2 éme langue ) </li>
+      <li> Anglais (3 éme langue  ) </li>
+      <li> espagnol (débutant)      </li>
+    </ul>
+  <h1 id="03"> Loisirs </h1>
+  <ul>
+    <li> Taekowndo(ceinture rouge 2 &eacuteme dan  ) </li>
+    <li> voile </li>
+    <li> natation </li>
+    <li> handball </li>
+  </ul>
+</div>
+</body>
+</html>
